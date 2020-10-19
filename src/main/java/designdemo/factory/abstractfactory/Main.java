@@ -5,9 +5,9 @@ import designdemo.factory.abstractfactory.abstractclass.Food;
 import designdemo.factory.abstractfactory.abstractclass.Gun;
 import designdemo.factory.abstractfactory.abstractclass.Transportion;
 import designdemo.factory.abstractfactory.ukclass.UkFactory;
-import designdemo.factory.abstractfactory.usaclass.UsaFactory;
 
 /**
+ * 抽象工厂中生产两类实体，一个是以UkFactory为工厂的UK系列对象；一个是以UsaFactory为工厂的USA系列对象
  * Author : GuDao
  * 2020-10-11
  */

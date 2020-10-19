@@ -1,6 +1,7 @@
 package designdemo.responsibilitychain.simpleresponsibilitychain;
 
 /**
+ * 将Hello,I am gudao,my page is 'gudao.ink'中的gudao替换为孤岛，gudao.ink替换为http://gudao.ink，将,替换为, 并在结尾添加.
  * Author : GuDao
  * 2020-10-16
  */

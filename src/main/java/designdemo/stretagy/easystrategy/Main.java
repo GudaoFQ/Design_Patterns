@@ -3,6 +3,7 @@ package designdemo.stretagy.easystrategy;
 import java.util.ResourceBundle;
 
 /**
+ * 通过比较策略来实现People实体的age排序
  * Author : GuDao
  * 2020-10-14
  */

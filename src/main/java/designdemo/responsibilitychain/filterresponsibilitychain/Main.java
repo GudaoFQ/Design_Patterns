@@ -1,6 +1,7 @@
 package designdemo.responsibilitychain.filterresponsibilitychain;
 
 /**
+ * 执行request顺序为：filter1->filter2->filter；执行response顺序为：filter3->filter2->filter1
  * Author : GuDao
  * 2020-10-16
  */
