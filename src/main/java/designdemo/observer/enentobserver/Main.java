@@ -10,9 +10,11 @@ public class Main {
     public static void main(String[] args) {
         Child child = new Child();
         ActionEvent event = new ActionEvent("morning", child);
+
         Listerner fatherLister = new FatherListener();
         Listerner matherLister = new MatherListener();
         child.add(fatherLister).add(matherLister);
+
         child.childProcess(event);
     }
 }
