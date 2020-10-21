@@ -5,6 +5,7 @@ package designdemo.observer.enentobserver;
  * Author : GuDao
  * 2020-10-20
  */
+
 public interface Listerner {
     public void process(ActionEvent event);
 }
