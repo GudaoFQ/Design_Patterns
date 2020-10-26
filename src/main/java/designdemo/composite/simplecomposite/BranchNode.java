@@ -1,4 +1,4 @@
-package designdemo.composite;
+package designdemo.composite.simplecomposite;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +29,6 @@ public class BranchNode extends Node {
     public BranchNode(String name) {
         this.name = name;
     }
-
 
     /**
      * 在枝干上添加叶子

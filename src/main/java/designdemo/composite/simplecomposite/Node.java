@@ -1,4 +1,4 @@
-package designdemo.composite;
+package designdemo.composite.simplecomposite;
 
 /**
  * 抽象节点
