@@ -1,6 +1,7 @@
 package designdemo.flyweight;
 
 /**
+ * 共享实例
  * Author : GuDao
  * 2020-10-26
  */

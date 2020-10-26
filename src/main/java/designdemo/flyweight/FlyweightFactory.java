@@ -3,6 +3,7 @@ package designdemo.flyweight;
 import java.util.HashMap;
 
 /**
+ * 共享工程
  * Author : GuDao
  * 2020-10-26
  */

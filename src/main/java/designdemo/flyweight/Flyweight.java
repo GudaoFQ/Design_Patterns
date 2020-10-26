@@ -1,6 +1,7 @@
 package designdemo.flyweight;
 
 /**
+ * 抽象共享类
  * Author : GuDao
  * 2020-10-26
  */
